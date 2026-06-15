@@ -104,16 +104,3 @@ Click the badge below to open any notebook directly in Colab (no local setup nee
 
 ---
 
-## 🔗 Course Links
-
-- [Course Page — DS Fundamentals with Python](https://app.notion.com/p/DS-Fundamentals-with-Python-377343da54a080b19919fc6612db05fb)
-- [Python Modules Reference](https://app.notion.com/p/Python-Modules-379343da54a080d18650c4b7c9f60013)
-- [Analytics Club, IIT Bombay](https://analytics-club-iitb.github.io/)
-
----
-
-## 📬 Contact
-
-Feel free to open an issue if you spot an error or have a suggestion. I'm still learning!
-
-*— First-year undergraduate, IIT Bombay (2025–26)*
