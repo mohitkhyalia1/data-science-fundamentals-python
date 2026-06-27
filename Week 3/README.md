@@ -18,4 +18,3 @@ Week 3 of the **Data Science Fundamentals with Python** course (Learners' Space 
 
 * `logistic_regression.ipynb` – Logistic Regression implementation
 * `decision_tree_classifier.ipynb` – Decision Tree Classifier implementation
-* 
